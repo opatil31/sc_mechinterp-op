@@ -2,6 +2,8 @@
 
 A collection of mechanistic interpretability tools for single-cell data analysis. *A lot of setup code is experimental and may change in the future. Please let me know if you have any issues or suggestions.*
 
+OP - Adding my SAE archs for gLMs and running comp experiments
+
 ## 🚀 Quick Navigation
 
 **🔬 [Available Tools](#-available-tools)** | **⚡ [Quick Start](#-quick-start)** | **📚 [Documentation](docs/)** | **🎯 [Examples](examples/)**
