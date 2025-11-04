@@ -2,7 +2,14 @@
 
 A collection of mechanistic interpretability tools for single-cell data analysis. *A lot of setup code is experimental and may change in the future. Please let me know if you have any issues or suggestions.*
 
-OP - Adding my prototype SAE archs for gLMs and running comp experiments with scFeatureLens
+Updates from Oankar Patil (OP):
+I'm going to just use this as my update log section:
+- So first major SAE I added was a Sparse Spike-and-Slab VAE (overcomplete ofc) for MI research and analyzing gLMs.
+- You can find the arch in "MI_SparseSpike-and-SlabVAE.ipynb" and some comments from me at the top abt motivation and my general intuition
+- In a nutshell, I made this type of SAE to deal with some of the known issues with current SAEs and their under-performance in comp to linear probes.
+  To-Do:
+  - I need to start running comparison experiments and analzying if my hypothesis is right, so we'll see how that goes lol
+  - Preparing it for publication, even if it doesn't work, I think analysis on why might also be fruitful...? Not sure if anyone would rly care on that though since a lot of the ideas I'm talking about have been done previously, I'm just doing them for MI.
 
 ## 🚀 Quick Navigation
 
