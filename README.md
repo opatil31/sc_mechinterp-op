@@ -2,7 +2,7 @@
 
 A collection of mechanistic interpretability tools for single-cell data analysis. *A lot of setup code is experimental and may change in the future. Please let me know if you have any issues or suggestions.*
 
-Updates from Oankar Patil (OP):
+Updates from Oankar Patil (OP) - The rest of this readme is just the fork from Dr. Schuster at the Broad Institute:
 I'm going to just use this as my update log section:
 - So first major SAE I added was a Sparse Spike-and-Slab VAE (overcomplete ofc) for MI research and analyzing gLMs.
 - You can find the arch in "MI_SparseSpike-and-SlabVAE.ipynb" and some comments from me at the top abt motivation and my general intuition
