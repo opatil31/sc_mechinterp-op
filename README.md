@@ -8,8 +8,7 @@ I'm going to just use this as my update log section:
 - You can find the arch in "MI_SparseSpike-and-SlabVAE.ipynb" and some comments from me at the top abt motivation and my general intuition
 - In a nutshell, I made this type of SAE to deal with some of the known issues with current SAEs and their under-performance in comp to linear probes.
   To-Do:
-  - I need to start running comparison experiments and analzying if my hypothesis is right, so we'll see how that goes lol
-  - Preparing it for publication, even if it doesn't work, I think analysis on why might also be fruitful...? Not sure if anyone would rly care on that though since a lot of the ideas I'm talking about have been done previously, I'm just doing them for MI.
+  - I'm not totally sure if this is the right dir, i think an orthogonal SAE might be more useful...
 
 ## 🚀 Quick Navigation
 
